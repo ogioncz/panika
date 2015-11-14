@@ -487,6 +487,14 @@ i profesionálním.</i>
 
 105
 00:07:14,660 --> 00:07:17,583
-Konat rychle musíš.
-Pod čepicí mít.
+<i>Konat rychle musíš.
+Pod čepicí mít.</i>
+
+106
+00:08:34,535 --> 00:08:35,578
+Přestaň zpívat!
+
+107
+00:08:36,162 --> 00:08:37,570
+Sem se nesmí.
 
