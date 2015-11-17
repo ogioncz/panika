@@ -656,7 +656,7 @@ abys je pustil a mi mohli pařit,
 141
 00:10:51,922 --> 00:10:55,259
 vyvolat chaos a do půlnoci
- všechny proměnit v duchy.
+všechny proměnit v duchy.
 
 142
 00:10:55,259 --> 00:10:58,346
@@ -675,12 +675,12 @@ No super.
 145
 00:11:09,148 --> 00:11:12,735
 Pohleďte!
- Šílený vědec doktor Sydmullstein
+Šílený vědec doktor Sydmullstein
 
 146
 00:11:12,735 --> 00:11:16,322
 oživuje svůj
- nejnovější výtvor!
+nejnovější výtvor!
 
 147
 00:11:16,322 --> 00:11:20,242
@@ -703,5 +703,89 @@ Nebylo to vtipné ani poprvé.
 151
 00:11:33,964 --> 00:11:36,092
 Tomu neuvěříte,
- ale poslouchejte!
+ale poslouchejte!
+
+152
+00:11:36,092 --> 00:11:39,095
+Jeden malý duch mě přesvědčil,
+abych vytáhl tu zkamenělou dýni.
+
+153
+00:11:39,095 --> 00:11:41,097
+Tím jsem vypustil
+čtyři děsivé přízraky,
+
+154
+00:11:41,097 --> 00:11:45,184
+kteří chtějí všechny tučňáky
+ na ostrově do půlnoci proměnit v duchy.
+
+155
+00:11:45,184 --> 00:11:48,020
+Neutáhl sis tu helmu moc?
+
+156
+00:11:48,020 --> 00:11:51,524
+Nejdřív zombíci, teď zas duchové…
+
+157
+00:11:51,524 --> 00:11:55,236
+Blizzarde, jestli jsou duchové
+skuteční, tak sním tenhle falešný náhrobek.
+
+158
+00:11:57,150 --> 00:11:59,030
+Tohle má
+ bejt strašidelný iglú?
+
+159
+00:11:59,030 --> 00:12:02,201
+- Vůbec není strašidelný.
+- Souhlasím.
+
+160
+00:12:04,495 --> 00:12:07,039
+Musíme to tady trochu předělat.
+
+161
+00:12:07,415 --> 00:12:09,000
+A začneme s váma.
+
+162
+00:12:10,292 --> 00:12:12,003
+Počkat!
+Tyhle nechte mě!
+
+163
+00:12:12,003 --> 00:12:13,838
+Vymažu je v cuku letu!
+
+164
+00:12:14,463 --> 00:12:16,048
+Promiň, Blizzánku.
+
+165
+00:12:21,178 --> 00:12:23,347
+Tohle byla ta
+nejdivější věc za celou noc.
+
+166
+00:12:39,905 --> 00:12:42,616
+Tak ne.
+Tohle je ještě divnější.
+
+167
+00:12:43,159 --> 00:12:44,994
+Duchové!
+Duchové unikli!
+
+168
+00:12:44,994 --> 00:12:46,996
+Hej!
+Duchové!
+
+169
+00:12:46,996 --> 00:12:50,124
+Víme. Můžeš poděkovat
+ tady pánu šprýmařů.
 
