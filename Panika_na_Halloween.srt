@@ -3,32 +3,32 @@
 <b>PANIKA NA HALLOWEEN</b>
 
 2
-00:00:11,949 --> 00:00:14,618
+00:00:11,940 --> 00:00:14,866
 - Veselý Halloween!
 - Veselý Halloween!
 
 3
-00:00:15,494 --> 00:00:18,581
+00:00:15,490 --> 00:00:17,960
 Koledu, nebo trest.
 Super! Cukroví!
 
 4
-00:00:19,206 --> 00:00:21,709
+00:00:18,973 --> 00:00:21,573
 Koledu, nebo trest!
 Super! Pečená ryba.
 
 5
-00:00:22,543 --> 00:00:24,295
+00:00:22,426 --> 00:00:24,290
 Koledu nebo trest!
 Pro vás, pane.
 
 6
-00:00:24,295 --> 00:00:26,290
+00:00:24,290 --> 00:00:26,040
 Super!
 HD televize.
 
 7
-00:00:26,325 --> 00:00:28,290
+00:00:26,080 --> 00:00:27,333
 Veselý Halloween, pane.
 
 8
@@ -52,7 +52,7 @@ Uvidíme, jak moc
 to bude děsivé.
 
 12
-00:00:58,621 --> 00:01:01,082
+00:00:58,620 --> 00:01:01,040
 Hej!
 Gary, vynálezce!
 
@@ -76,12 +76,12 @@ Jsem expert na duchy
 a jen tak něco mě nevyděsí.
 
 17
-00:01:17,932 --> 00:01:21,686
+00:01:18,474 --> 00:01:21,686
 Ale mám zcela iracionální
 strach z ručičkových hodin.
 
 18
-00:01:23,604 --> 00:01:26,357
+00:01:23,938 --> 00:01:26,357
 Díky bohu za digitálky.
 
 19
@@ -103,14 +103,14 @@ Pokud máte odvahu,
 následujte mě.
 
 23
-00:01:41,664 --> 00:01:44,458
+00:01:41,664 --> 00:01:44,333
 Duchové umírají
 touhou vás poznat.
 
 24
 00:01:48,425 --> 00:01:54,880
 Z bezpečnostních důvodů prosím za žádných
-okolností nevystrkujte vaše končetiny.
+ okolností nevystrkujte vaše končetiny.
 
 25
 00:01:54,880 --> 00:01:56,880
@@ -148,8 +148,8 @@ Sakra!
 
 33
 00:02:28,919 --> 00:02:34,467
-Pohleďte na strašidelný salónek,
-kde madam Lorna komunikuje s neviditelnými silami.
+Pohleďte na strašidelný salónek, kde madam
+ Lorna komunikuje s neviditelnými silami.
 
 34
 00:02:34,508 --> 00:02:38,929
@@ -218,7 +218,7 @@ Jak to mám vědět?
 Měl by být tady.
 
 48
-00:03:37,405 --> 00:03:42,326
+00:03:38,447 --> 00:03:42,326
 Hluboce se omlouvám.
 Jeden herec se neukázal, takže…
 
@@ -290,7 +290,7 @@ Zatrsáme si!
 63
 00:04:54,725 --> 00:04:58,860
 Nevídané!
-Zombie tanec čtvrté třídy!
+Zombie tanec páté třídy!
 
 64
 00:05:02,948 --> 00:05:05,785
@@ -327,8 +327,8 @@ každý Halloween a já už toho mám dost!
 
 71
 00:05:30,726 --> 00:05:34,188
-Jako prezidentka
-Plánovací komise strašidelného iglú ti dávám padáka!
+Jako prezidentka Plánovací komise
+ strašidelného iglú ti dávám padáka!
 
 72
 00:05:34,188 --> 00:05:36,565
@@ -417,7 +417,7 @@ Mluvící dýně?
 90
 00:06:35,925 --> 00:06:37,660
 Co?
-Nejsem žádný dyňa!
+Nejsem žádná dyňa!
 
 91
 00:06:37,660 --> 00:06:39,045
@@ -491,945 +491,1011 @@ i profesionálním.</i>
 Pod čepicí mít.</i>
 
 106
+00:07:17,833 --> 00:07:20,044
+<i>Abys pánem
+podvodníků a šprýmů stal se.</i>
+
+107
+00:07:20,294 --> 00:07:22,588
+<i> - Jde o to je dostat.</i>
+<i>- Umět lidi obelstit?</i>
+
+108
+00:07:22,797 --> 00:07:25,257
+<i>- Kéž viděl bych tě.
+- Chápat to začínám.</i>
+
+109
+00:07:25,299 --> 00:07:28,844
+<i>Umění podvodů
+naučím tě.</i>
+
+110
+00:07:29,178 --> 00:07:30,304
+<i>Dostat je musíš.</i>
+
+111
+00:07:35,059 --> 00:07:37,520
+<i>Chápu, že záludný
+a úlisný musíš být.</i>
+
+112
+00:07:37,728 --> 00:07:40,231
+<i>Trik drží
+pohromadě šprýmařův um.</i>
+
+113
+00:07:40,523 --> 00:07:42,189
+<i>Přesně tak!
+Rychle se chytáš!</i>
+
+114
 00:08:34,535 --> 00:08:35,578
 Přestaň zpívat!
 
-107
+115
 00:08:36,162 --> 00:08:38,456
 Sem se nesmí.
 
-108
+116
 00:08:38,456 --> 00:08:41,876
 Nesmíme se jí ani dotknout!
 Nikdy!
 
-109
+117
 00:08:41,876 --> 00:08:44,879
 No tak, Blizzánku,
 na strach nemáme čas.
 
-110
+118
 00:08:44,879 --> 00:08:47,798
 Myslel jsem, že chceš
 být králem šprýmařů.
 
-111
+119
 00:08:47,798 --> 00:08:51,844
 - Jo, ale…
 - Tak super, vytáhni ten špunt ranaři.
 
-112
+120
 00:08:56,974 --> 00:08:59,060
 Doufám,
-že to bude stát za to
+že to bude stát za to.
 
-113
+121
 00:09:07,526 --> 00:09:11,447
 - To je všechno?
 - Počkej si.
 
-114
+122
 00:09:14,116 --> 00:09:15,618
 <i>Jsme volní!</i>
 
-115
+123
 00:09:15,618 --> 00:09:18,454
 <i>Po všech těch
 letech jsme volní!</i>
 
-116
+124
 00:09:24,175 --> 00:09:27,080
 Vidíš, Redrume? Říkal jsem,
 že vás z té díry jednou dostanu.
 
-117
+125
 00:09:27,080 --> 00:09:30,800
 - Co ti tak trvalo, prcku?
 - Neměl jsem tucha, že je duchovzdorná.
 
-118
+126
 00:09:30,800 --> 00:09:33,302
 Musel jsem najít
 nějakého imbecila, aby ji vytáhl.
 
-119
+127
 00:09:33,302 --> 00:09:34,303
 Hej!
 
-120
+128
 00:09:34,303 --> 00:09:36,300
 Tys našel ještě
 většího blba než si ty?
 
-121
+129
 00:09:37,640 --> 00:09:41,560
 Yello, ty jsi na mě
 vždycky tak hnusný.
 
-122
+130
 00:09:41,560 --> 00:09:43,562
 Přestaňte se ním zabejvat!
 
-123
+131
 00:09:43,562 --> 00:09:45,481
 Musíme rozpoutat chaos!
 
-124
+132
 00:09:45,525 --> 00:09:47,810
 Grrepy.
 Ty jsi ale kost.
 
-125
+133
 00:09:47,810 --> 00:09:49,235
 Nemluv na mě.
 
-126
+134
 00:09:49,235 --> 00:09:51,320
 Čas šířit strach.
 
-127
+135
 00:09:51,654 --> 00:09:53,990
 Blooky.
 Vždy s kamenou tváří.
 
-128
+136
 00:09:53,990 --> 00:09:55,241
 My se známe?
 
-129
+137
 00:09:55,783 --> 00:09:58,744
 Dost bylo keců! Máme naspěch,
 tenhle ostrov se sám nevystraší.
 
-130
+138
 00:09:58,744 --> 00:10:00,913
 Jdeme pařit!
 
-131
+139
 00:10:08,045 --> 00:10:10,381
 Dobrej věčír, tučňáci.
 Je skvělý bejt zpátky.
 
-132
+140
 00:10:10,381 --> 00:10:15,261
 Kdo je připravenej
 na pravý halloweenský strašení?
 
-133
+141
 00:10:18,775 --> 00:10:21,050
 Kostým je zbytečněj.
 My jsme skutečný.
 
-134
+142
 00:10:21,050 --> 00:10:22,727
 A ty už taky.
 
-135
+143
 00:10:24,228 --> 00:10:26,897
 Bej naživu
 je dávno pasé.
 
-136
+144
 00:10:31,652 --> 00:10:32,820
 Baf!
 
-137
+145
 00:10:34,655 --> 00:10:38,159
 Pěkně jste je zdušili!
 Párty pokračuje!
 
-138
+146
 00:10:41,871 --> 00:10:46,167
 - Nejsou super?
 - Tohle je na hlavu, Gusi!
 
-139
+147
 00:10:46,167 --> 00:10:49,128
 - Co jsou sakra zač?
 - Můj duší gang.
 
-140
+148
 00:10:49,128 --> 00:10:51,922
 Tak trochu jsem tě ošálil,
 abys je pustil a mi mohli pařit,
 
-141
+149
 00:10:51,922 --> 00:10:55,259
 vyvolat chaos a do půlnoci
 všechny proměnit v duchy.
 
-142
+150
 00:10:55,259 --> 00:10:58,346
 Dostal jsem tě!
 Hoď se do klidu!
 
-143
+151
 00:10:58,346 --> 00:11:00,890
 Hej, lidi,
 počkejte na mě!
 
-144
+152
 00:11:02,600 --> 00:11:03,851
 No super.
 
-145
+153
 00:11:09,148 --> 00:11:12,735
 Pohleďte!
 Šílený vědec doktor Sydmullstein
 
-146
+154
 00:11:12,735 --> 00:11:16,322
 oživuje svůj
 nejnovější výtvor!
 
-147
+155
 00:11:16,322 --> 00:11:20,242
 Žij!
 Přikazuji, žij!
 
-148
+156
 00:11:25,247 --> 00:11:26,666
 Zatraceně!
 
-149
+157
 00:11:28,459 --> 00:11:30,211
 Jsme ztraceni!
 
-150
+158
 00:11:30,211 --> 00:11:33,964
 Nech toho, Blizzarde.
 Nebylo to vtipné ani poprvé.
 
-151
+159
 00:11:33,964 --> 00:11:36,092
 Tomu neuvěříte,
 ale poslouchejte!
 
-152
+160
 00:11:36,092 --> 00:11:39,095
 Jeden malý duch mě přesvědčil,
 abych vytáhl tu zkamenělou dýni.
 
-153
+161
 00:11:39,095 --> 00:11:41,097
 Tím jsem vypustil
 čtyři děsivé přízraky,
 
-154
+162
 00:11:41,097 --> 00:11:45,184
 kteří chtějí všechny tučňáky
 na ostrově do půlnoci proměnit v duchy.
 
-155
+163
 00:11:45,184 --> 00:11:48,020
 Neutáhl sis tu helmu moc?
 
-156
+164
 00:11:48,020 --> 00:11:51,524
 Nejdřív zombíci, teď zas duchové…
 
-157
+165
 00:11:51,524 --> 00:11:55,236
 Blizzarde, jestli jsou duchové
 skuteční, tak sním tenhle falešný náhrobek.
 
-158
+166
 00:11:57,150 --> 00:11:59,030
 Tohle má
 bejt strašidelný iglú?
 
-159
+167
 00:11:59,030 --> 00:12:02,201
 - Vůbec není strašidelný.
 - Souhlasím.
 
-160
+168
 00:12:04,495 --> 00:12:07,039
 Musíme to tady trochu předělat.
 
-161
+169
 00:12:07,415 --> 00:12:09,000
 A začneme s váma.
 
-162
+170
 00:12:10,292 --> 00:12:12,003
 Počkat!
 Tyhle nechte mě!
 
-163
+171
 00:12:12,003 --> 00:12:13,838
 Vymažu je v cuku letu!
 
-164
+172
 00:12:14,463 --> 00:12:16,048
 Promiň, Blizzánku.
 
-165
+173
 00:12:21,178 --> 00:12:23,347
 Tohle byla ta
 nejdivější věc za celou noc.
 
-166
+174
 00:12:39,905 --> 00:12:42,616
 Tak ne.
 Tohle je ještě divnější.
 
-167
+175
 00:12:43,159 --> 00:12:44,994
 Duchové!
 Duchové unikli!
 
-168
+176
 00:12:44,994 --> 00:12:46,996
 Hej!
 Duchové!
 
-169
+177
 00:12:46,996 --> 00:12:50,124
 Víme. Můžeš poděkovat
-tady pánu šprýmařů.
+tady mistru šprýmařů.
 
-170
+178
 00:12:50,291 --> 00:12:52,209
 Jsem velitelem
 všech šprýmařů!
 
-171
+179
 00:12:52,543 --> 00:12:54,503
 Co jsi udělal?
 
-172
+180
 00:12:54,920 --> 00:12:59,925
 Možná jsem tak nějak
 vytáhl tu zkamenělou dýni.
 
-173
+181
 00:13:00,384 --> 00:13:01,302
 Tak trochu.
 
-174
+182
 00:13:02,011 --> 00:13:04,764
 Tohle je
 velice vážná situace, tučňáci.
 
-175
+183
 00:13:05,180 --> 00:13:08,517
 Vše vám vysvětlím za pomocí
 tohoto přenosného projektoru.
 
-176
+184
 00:13:12,400 --> 00:13:16,150
 Vše začalo u mého
 prastrýce alchymisty Gariwalda.
 
-177
+185
 00:13:16,380 --> 00:13:19,360
 Byl to geniální
 vědec, stejně jako já.
 
-178
+186
 00:13:21,500 --> 00:13:24,659
 Zjistil, že se na celém
 ostrově nachází podivné díry.
 
-179
+187
 00:13:25,020 --> 00:13:28,070
 S vlastnostmi,
-které ještě nikde jinde neviděl.
+které ještě nikdy neviděl.
 
-180
+188
 00:13:29,820 --> 00:13:33,330
 Jedné halloweenské noci
 našel prastrýc Gariwald novou díru.
 
-181
+189
 00:13:34,043 --> 00:13:39,880
 Pošetilými experimenty nechtěně otevřel
 nadpřirozenou cestu do jiného světa.
 
-182
+190
 00:13:40,260 --> 00:13:43,260
-A tím bohužel osvobodil roj duchů, který rozpoutal chaos
+A tím bohužel osvobodil
+ roj duchů, který rozpoutal chaos
 
-183
+191
 00:13:43,344 --> 00:13:46,555
- a každého tučňáka proměnil v ducha.
+a každého tučňáka proměnil v ducha.
 
-184
+192
 00:13:46,880 --> 00:13:51,810
 Gariwald vydedukoval, že pokud se ti běsnící
 duchové do půlnoci  nevrátí do svého světa,
 
-185
+193
 00:13:52,144 --> 00:13:56,065
 celý ostrov se navěky
 stane ostrovem duchů.
 
-186
+194
 00:13:57,400 --> 00:14:05,280
 S cílem ukončit krutovládu duchů je
 prastrýc pochytal svým Lapačem duchů 3000.
 
-187
+195
 00:14:06,409 --> 00:14:11,998
 Gariwald hrdinně vhodil duchy zpět
 a vytvořil duchovzdornou dýňovou zátku,
 
-188
+196
 00:14:12,039 --> 00:14:14,041
-aby se ujistil, 
+aby se ujistil,
 že tam zůstanou navždy.
 
-189
+197
 00:14:17,750 --> 00:14:20,000
 Tedy do té doby
 než je tady ten bezmozek nepustil.
 
-190
+198
 00:14:21,000 --> 00:14:24,640
 Takže do půlnoci
 musíme oddušit celý ostrov?
 
-191
+199
 00:14:24,920 --> 00:14:26,595
 Přesně tak!
 Kdo se přidá?
 
-192
+200
 00:14:27,096 --> 00:14:28,514
 Já začnu.
 Gary!
 
-193
+201
 00:14:28,720 --> 00:14:30,182
- - Sydmull!
+- Sydmull!
 - Roofhowse!
 
-194
+202
 00:14:30,433 --> 00:14:32,309
 - Blizzard!
 - Jangrah!
 
-195
+203
 00:14:33,880 --> 00:14:34,810
 Kde je Lorna?
 
-196
-00:14:37,980 --> 00:14:41,610
+204
+00:14:40,066 --> 00:14:41,746
 Tenhle lokál se vyved!
 
-197
-00:14:41,610 --> 00:14:44,360
+205
+00:14:41,760 --> 00:14:44,360
 Perfektní místo
- pro pařbu duchů!
+pro pařbu duchů! 
 
-198
+206
 00:14:44,360 --> 00:14:45,940
 Souhlas.
 
-199
+207
 00:14:46,360 --> 00:14:48,200
 Jakej je plán?
 
-200
+208
 00:14:48,200 --> 00:14:52,330
 Pořádáme halloweenskou
 párty století! Ty zameť!
 
-201
+209
 00:14:57,120 --> 00:14:58,910
 Promiňte, malý duchu.
 
-202
+210
 00:14:58,960 --> 00:15:00,830
 Ježiš!
 Myslel jsem, že jsi nábytek!
 
-203
+211
 00:15:00,830 --> 00:15:02,880
 Co se stalo s mými přáteli?
 
-204
+212
 00:15:02,880 --> 00:15:04,550
-Neboj se, jsou v pořádku. 
+Neboj se, jsou v pořádku.
 
-205
+213
 00:15:04,800 --> 00:15:08,137
 Jen jsem je teleportoval ven.
 Mám pro toho Blizzarda slabost!
 
-206
+214
 00:15:08,130 --> 00:15:12,010
 To jsem si oddechla.
 Jsou to mí nejlepší přátelé.
 
-207
+215
 00:15:12,010 --> 00:15:13,930
 To se máš.
 
-208
+216
 00:15:13,930 --> 00:15:16,470
 Hej, zametáku! Přestaň žvanit
- s tím stolem a makej!
+s tím stolem a makej!
 
-209
+217
 00:15:16,930 --> 00:15:17,930
 Jasan, šéfe!
 
-210
+218
 00:15:17,930 --> 00:15:21,270
 Ale jestli jsou ti duchové tví
- přátelé, proč jsou na tebe tak oškliví?
+přátelé, proč jsou na tebe tak oškliví?
 
-211
+219
 00:15:21,270 --> 00:15:25,488
 Nejsou tak špatní.
 A až Redrum ovládne ostrov,
 
-212
+220
 00:15:25,738 --> 00:15:27,446
-Budeme pořád pařit!
+budeme pořád pařit!
 
-213
+221
 00:15:28,783 --> 00:15:30,785
 Všechno začně o půlnoci!
 
-214
+222
 00:15:32,244 --> 00:15:33,700
 O půlnoci?
 
-215
+223
 00:15:38,120 --> 00:15:39,377
 Chytání duchů je jednoduché.
 
-216
+224
 00:15:39,440 --> 00:15:43,964
 Stačí zamířit a vystřelit.
- Duch bude okamžitě vtažen do nádoby.
+Duch bude okamžitě vtažen do nádoby.
 
-217
+225
 00:15:44,256 --> 00:15:47,009
 Ale pamatujte!
 Máte jen jeden pokus.
 
-218
+226
 00:15:47,130 --> 00:15:47,840
 Připraven!
 
-219
+227
 00:15:47,960 --> 00:15:48,590
 Připraven!
 
-220
+228
 00:15:48,590 --> 00:15:49,420
 Připravená!
 
-221
+229
 00:15:49,420 --> 00:15:55,180
 Hustý!
- Počkat, to bylo ono?
+Počkat, to bylo ono?
 
-222
+230
 00:15:55,180 --> 00:15:57,770
 Nechceš hlídat venku, Blizzarde?
 
-223
+231
 00:15:57,770 --> 00:15:59,520
 Jasně, chápu.
 
-224
+232
 00:16:04,276 --> 00:16:07,480
 Párty končí, duchové!
-Příště si domluvte rezervaci.
+Příště si udělejte rezervaci.
 
-225
+233
 00:16:07,947 --> 00:16:10,157
 To znělo skvěle, co?
 
-226
+234
 00:16:10,658 --> 00:16:12,190
 Ani ne.
 
-227
+235
 00:16:12,190 --> 00:16:14,912
 Zakrslíku jeden!
 Myslel jsem, že ses o ně postaral!
 
-228
+236
 00:16:18,666 --> 00:16:20,250
 Dostali mě, šéfe!
 
-229
+237
 00:16:20,250 --> 00:16:21,870
 Jeden dole, lidi.
 Rozdělte se!
 
-230
+238
 00:16:25,840 --> 00:16:27,133
 Můžeme si o tom promluvit?
 
-231
+239
 00:16:29,010 --> 00:16:30,219
 Taky mě dostali!
 
-232
+240
 00:16:34,040 --> 00:16:37,220
 Proč si nedovoluješ
 na někoho stejné hmotnosti?
 
-233
+241
 00:16:37,890 --> 00:16:39,687
 Nezapomeňte na mě!
 
-234
+242
 00:16:41,814 --> 00:16:43,560
 Vyhrála jsi.
 Vzdávám se.
 
-235
+243
 00:16:43,560 --> 00:16:44,230
 Vážně?
 
-236
+244
 00:16:44,230 --> 00:16:45,860
 Ne, jen to hraju.
 
-237
+245
 00:16:49,530 --> 00:16:52,490
 Ale ne!
 Proměnil ji v jangrah dýni!
 
-238
+246
 00:16:52,490 --> 00:16:53,780
 Moc brzo, kámo.
 
-239
+247
 00:16:54,785 --> 00:16:57,288
 Tak počkat, Redrume.
 Takhle jsme to neplánovali!
 
-240
+248
 00:16:57,370 --> 00:16:59,370
 Změna plánu, kryso!
 
-241
+249
 00:17:05,080 --> 00:17:08,840
 A už tě nepotřebujem.
 
-242
+250
 00:17:08,840 --> 00:17:11,050
 Jo! Potřebovali
 jsme jenom osvobodit!
 
-243
+251
 00:17:11,050 --> 00:17:13,760
 Tvoje služby
- již nejsou zapotřebí!
+již nejsou zapotřebí!
 
-244
+252
 00:17:13,760 --> 00:17:14,722
 Chcete říct…
 
-245
+253
 00:17:15,130 --> 00:17:16,390
 Máš padáka.
 
-246
-00:17:24,310 --> 00:17:26,317
+254
+00:17:24,866 --> 00:17:26,310
 Chtěl jsem se
 jen trochu pobavit.
 
-247
-00:17:26,359 --> 00:17:29,153
+255
+00:17:26,350 --> 00:17:29,066
 Jak jsem měl vědět
 že osvobodím duchy,
 
-248
-00:17:29,445 --> 00:17:32,823
+256
+00:17:29,106 --> 00:17:32,820
 kteří promění v duchy všechny
- ostatní a navždy zničí Halloween?
+ostatní a navždy zničí Halloween?
 
-249
+257
 00:17:33,240 --> 00:17:34,400
 A zůstaň tam!
 
-250
+258
 00:17:35,368 --> 00:17:36,410
 Čau, Blizzarde.
 
-251
+259
 00:17:36,410 --> 00:17:38,287
 Nech si to.
 
-252
+260
 00:17:38,537 --> 00:17:41,540
 Celou tu dobu
 jsi mě podváděl.
 
-253
+261
 00:17:41,580 --> 00:17:46,370
 Omlouvám se, myslel jsem si,
- že když je osvobodím, konečně si mě oblíbí.
+že když je osvobodím, konečně si mě oblíbí.
 
-254
+262
 00:17:46,370 --> 00:17:48,830
 Fakt?
 A jak to dopadlo?
 
-255
+263
 00:17:48,830 --> 00:17:52,051
 Nejvíc podvedli mě a tvé přátele.
 
-256
+264
 00:17:52,468 --> 00:17:54,009
 Jsou z nich dýně.
 
-257
+265
 00:17:54,050 --> 00:17:56,590
 Celé je to moje chyba.
 Musím je zachránit.
 
-258
+266
 00:17:56,590 --> 00:17:59,558
 Pokud nechceš, aby z tebe
- byl dýňový koláč, tak tam nehoď.
+byl dýňový koláč, tak tam nechoď.
 
-259
+267
+00:17:59,975 --> 00:18:03,771
+Jediný způsob, jak je zastavit
+je dostat je zpátky do té díry!
+
+268
 00:18:04,020 --> 00:18:06,770
 Tak co budem dělat?
 Pošleme jim pozvánku?
 
-260
+269
 00:18:08,020 --> 00:18:11,270
 Pařby přece milují.
 
-261
+270
 00:18:23,080 --> 00:18:24,910
 Lidi!
- Tohle musíte vidět!
+Tohle musíte vidět!
 
-262
+271
 00:18:24,910 --> 00:18:26,710
 Neřekli jsme ti,
 ať vymajzneš?
 
-263
+272
 00:18:26,710 --> 00:18:28,870
 Já ho vymažu natrvalo!
 
-264
+273
 00:18:29,588 --> 00:18:33,710
 Počkejte, lidi! Beze mě
- nedostanete tyhle super lístky.
+nedostanete tyhle super lístky.
 
-265
+274
 00:18:33,710 --> 00:18:35,050
 Vstup pro VIP?
 
-266
+275
 00:18:35,050 --> 00:18:37,010
 Nejlepší
- Halloweenská párty století?
+Halloweenská párty století?
 
-267
+276
 00:18:37,010 --> 00:18:38,800
 Pořádanou DJ Cadence?
 
-268
+277
 00:18:38,800 --> 00:18:41,050
 Bude tam každý,
 kdo něco znamená.
 
-269
+278
 00:18:41,050 --> 00:18:43,310
 A je to hned přes ulici!
 
-270
+279
 00:18:45,200 --> 00:18:48,480
 DJ Cadence v domě hrůzy.
 
-271
+280
 00:18:51,610 --> 00:18:56,030
 Páni.
 Vypadá to exkluzivně.
 
-272
+281
 00:18:56,030 --> 00:18:59,200
 Jen jsem vám chtěl
 dokázat, že vám nic nezazlejvám.
 
-273
+282
 00:18:59,200 --> 00:19:00,320
 Tak na co čekáme?
 
-274
+283
 00:19:04,620 --> 00:19:06,540
 Co se děje, Gusi?
 
-275
+284
 00:19:06,540 --> 00:19:09,003
 Naplánovali jsme
- takový halloweenský žertík.
+takový halloweenský žertík.
 
-276
+285
 00:19:10,120 --> 00:19:13,591
 Jméno? Nevidím vás
- na seznamu, ne nevidím vás tam.
+na seznamu. A vy? Ne nejste tam.
 
-277
-00:19:13,670 --> 00:19:17,510
+286
+00:19:15,240 --> 00:19:17,510
 Hej!
 Nepředbíhej.
 
-278
-00:19:17,880 --> 00:19:20,430
+287
+00:19:17,720 --> 00:19:18,721
 Uhněte, živáci!
 
-279
+288
+00:19:19,180 --> 00:19:20,306
+Dorazili jsme na tu párty.
+
+289
 00:19:20,430 --> 00:19:21,180
 Jméno?
 
-280
+290
 00:19:21,180 --> 00:19:23,300
 Jméno?
 My jsme VIP.
 
-281
-00:19:23,300 --> 00:19:26,850
+291
+00:19:23,773 --> 00:19:26,933
 Možná nemáme
 těla, ale nejsme nikdo.
 
-282
-00:19:26,850 --> 00:19:28,810
+292
+00:19:26,946 --> 00:19:28,810
 Navíc máme lupeny!
 
-283
-00:19:28,810 --> 00:19:32,190
-Tak proč jste to neřekli?
+293
+00:19:28,810 --> 00:19:32,240
+Proč jste to neřekli?
 Pojďte dál.
 
-284
-00:19:32,190 --> 00:19:35,900
+294
+00:19:32,400 --> 00:19:35,900
 Tak se mi to líbí.
 Copak tu máme?
 
-285
+295
 00:19:35,900 --> 00:19:37,440
 Žádná párty tu není.
 
-286
-00:19:37,440 --> 00:19:39,070
+296
+00:19:37,440 --> 00:19:38,616
 Počkejte si.
 
-287
+297
 00:19:41,990 --> 00:19:43,030
 Sakryš.
 
-288
+298
 00:19:52,672 --> 00:19:56,634
 Ještě se setkáme.
 Nemůžete mít Halloween bez duchů.
 
-289
+299
 00:19:57,510 --> 00:19:58,844
 Kam si myslíš, že deš?
 
-290
+300
 00:19:59,387 --> 00:20:02,598
 Omlouvám se za všechny ty triky!
 
-291
+301
 00:20:03,265 --> 00:20:05,265
 Chtěl jsem jenom
 opravdovýho kámoše.
 
-292
+302
 00:20:05,810 --> 00:20:09,730
 - Sbohem.
 - Objednal si tu někdo opravdovýho kámoše?
 
-293
+303
 00:20:29,840 --> 00:20:32,540
 Pardon.
 Pořád si na to nemůžu zvyknout.
 
-294
+304
 00:20:34,480 --> 00:20:37,420
 Fakt si mi pomoh.
 
-295
+305
 00:20:37,420 --> 00:20:39,880
 A od čeho jsou kámoši?
 
-296
+306
 00:20:39,880 --> 00:20:44,510
 Nemůžu uvěřit, že to říkám, ale ty
- jsi vážně jsi vůdce všech šprýmařů.
+jsi vážně jsi mistr všech šprýmařů.
 
-297
+307
 00:20:44,510 --> 00:20:48,810
-Ne, jsem vůdce odměn.
+Ne, jsem mistr odměn.
 Se šprýmama jsem skončil.
 
-298
+308
 00:20:48,810 --> 00:20:52,600
 Já taky.
 A co budem dělat teď?
 
-299
-00:20:52,600 --> 00:20:57,190
+309
+00:20:52,600 --> 00:20:54,358
 Připraveni strašit?
+
+310
+00:20:56,110 --> 00:20:57,278
 Sakryš.
 
-300
-00:20:57,190 --> 00:20:59,440
+311
+00:20:57,528 --> 00:20:59,440
 Pamatuješ si text, Blizzarde?
 
-301
+312
 00:20:59,440 --> 00:21:01,110
 Fakt?
 Už nemám padáka?
 
-302
+313
 00:21:01,110 --> 00:21:03,570
 Bez tebe to nezvládneme.
 A bez tebe taky ne, Gusi.
 
-303
+314
 00:21:03,570 --> 00:21:05,530
 Vážně?
 Jsem v partě?
 
-304
+315
 00:21:05,530 --> 00:21:09,290
 Jdem strašit tučňáky!
 
-305
+316
+00:21:12,001 --> 00:21:13,627
+<i>EPF poplach!
+EPF poplach!</i>
+
+317
 00:21:13,830 --> 00:21:16,170
 Volám agenta G.
 Hlaste se.
 
-306
+318
 00:21:16,170 --> 00:21:19,008
 Tady, agent G.
 Bez obav, Řediteli.
 
-307
+319
 00:21:19,200 --> 00:21:20,843
 Všichni duchové
- jsou zlikvidováni.
+jsou zlikvidováni.
 
-308
+320
 00:21:21,093 --> 00:21:25,306
 Výborná práce, avšak naše zdroje
- naznačují, že hrozí mnohem větší nebezpečí.
+naznačují, že hrozí mnohem větší nebezpečí.
 
-309
+321
 00:21:25,389 --> 00:21:28,642
 Je načase podrobit toho
- mladého, chytrého tučňáka zkoušce.
+mladého, chytrého tučňáka zkoušce.
 
-310
+322
 00:21:28,850 --> 00:21:30,140
 Ano, madam.
+
+323
+00:21:31,520 --> 00:21:34,213
+Překlad: Valada06, tom
+Korektura: Chuppob, Lisured
+
+324
+00:21:34,226 --> 00:21:35,230
+fan-club-penguin.cz
 
