@@ -537,7 +537,7 @@ grády musí tvůj trik mít</i>.
 115
 00:07:46,112 --> 00:07:50,574
 <i>Ve dvou se
- to s žerty lépe táhne!</i>
+to s žerty lépe táhne!</i>
 
 116
 00:07:50,900 --> 00:07:56,205
@@ -551,7 +551,7 @@ stačí jen opakovat po mě.</i>
 118
 00:08:05,965 --> 00:08:10,636
 <i>Ve dvou
- se to s žerty lépe táhne!</i>
+se to s žerty lépe táhne!</i>
 
 119
 00:08:10,826 --> 00:08:17,059
@@ -561,7 +561,7 @@ největším šprýmařem budeš.</i>
 120
 00:08:17,184 --> 00:08:21,897
 <i>Na největší
- trik teď uzrál čas.</i>
+trik teď uzrál čas.</i>
 
 121
 00:08:22,066 --> 00:08:26,819
@@ -576,7 +576,7 @@ stačí udělat tuhle poslední věc.</i>
 123
 00:08:29,530 --> 00:08:32,074
 <i>Vytáhnout tu
- dýni nastal čas!</i>
+dýni nastal čas!</i>
 
 124
 00:08:34,535 --> 00:08:35,578
@@ -604,7 +604,7 @@ být králem šprýmařů.
 129
 00:08:47,798 --> 00:08:51,844
 - Jo, ale…
-- Tak super, vytáhni ten špunt ranaři.
+- Tak super, vytáhni ten špunt, ranaři.
 
 130
 00:08:56,974 --> 00:08:59,060
@@ -1462,7 +1462,7 @@ A od čeho jsou kámoši?
 316
 00:20:39,880 --> 00:20:44,510
 Nemůžu uvěřit, že to říkám, ale ty
-jsi vážně jsi mistr všech šprýmařů.
+ jsi vážně mistr všech šprýmařů.
 
 317
 00:20:44,510 --> 00:20:48,810
@@ -1517,7 +1517,7 @@ Hlaste se.
 
 328
 00:21:16,170 --> 00:21:19,008
-Tady, agent G.
+Tady agent G.
 Bez obav, Řediteli.
 
 329
